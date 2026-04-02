@@ -1,12 +1,5 @@
 <div align="center">
 
-```
-╔════════════════════════════════════════════════════════════╗
-║  Router> show profile juan-pablo-olivares                  ║
-║  Interface: Redes & Cloud  |  Status: UP  |  Mode: Learning ║
-╚════════════════════════════════════════════════════════════╝
-```
-
 <h1>Juan Pablo Olivares Pérez</h1>
 
 <p>
@@ -37,7 +30,7 @@ $ cat whoami.txt
   Rol      : Estudiante ITI · Técnico en Redes e Infraestructura
   Enfoque  : Redes · Cloud Computing · Infraestructura TI
   Campus   : Universidad Politécnica del Valle de Toluca
-  Estado   : 8° Cuatrimestre — en construcción 🚧
+  Estado   : 8° Cuatrimestre — en construcción 
   Idiomas  : Español (nativo) · Inglés (B1)
 ```
 
@@ -45,38 +38,39 @@ $ cat whoami.txt
 
 ---
 
-## 🧠 Modelo OSI — Mi stack real
+## 🧠 Modelo OSI — La versión honesta
 
-> *"Todo problema de red tiene solución... empezando por la capa 1."*
+> *"Estudié 7 capas. La que más uso es la 8."*
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│  CAPA 8 — Usuario (aka: La silla y la computadora) 🪑💻         │
-│  El verdadero origen del 90% de los tickets. Handle with care.  │
+│  CAPA 8 — El Usuario                                            │
+│  No está en el RFC pero es la causa del 90% de los tickets.     │
+│  "¿Probaste apagarlo y prenderlo?" — sí, funciona siempre.      │
 ├─────────────────────────────────────────────────────────────────┤
 │  CAPA 7 — Aplicación                                            │
-│  HTTP · DNS · DHCP · FTP · SSH · lo que el usuario "necesita"   │
+│  "Está caído el sistema." — el sistema está bien, eres tú.      │
 ├─────────────────────────────────────────────────────────────────┤
 │  CAPA 6 — Presentación                                          │
-│  Cifrado, formatos, codificación · TLS/SSL                      │
+│  La capa que nadie recuerda en el examen. Ni el maestro.        │
 ├─────────────────────────────────────────────────────────────────┤
 │  CAPA 5 — Sesión                                                │
-│  Gestión de sesiones · NetBIOS · RPC                            │
+│  Existe. Dicen que hace cosas. Nadie ha visto evidencia.        │
 ├─────────────────────────────────────────────────────────────────┤
-│  CAPA 4 — Transporte         ← TCP/UDP · Puertos · QoS          │
-│  "¿Llegó el paquete? ¿Llegó completo? ¿Llegó bien?"            │
+│  CAPA 4 — Transporte                                            │
+│  TCP: "¿Llegó? ¿Seguro? ¿Me mandas confirmación? ¿Y otra?"      │
+│  UDP: enviado. bye.                                             │
 ├─────────────────────────────────────────────────────────────────┤
-│  CAPA 3 — Red                ← IP · Routing · Subnetting ✅      │
-│  IPv4 · VLSM · CIDR · Tablas de enrutamiento · Ping & Tracert   │
+│  CAPA 3 — Red                                                   │
+│  Donde vive el subnetting. Y donde mueren las neuronas.         │
+│  /27? /30? ¿Cuántos hosts? *calculadora intensifies*            │
 ├─────────────────────────────────────────────────────────────────┤
-│  CAPA 2 — Enlace de Datos    ← VLANs · Switching · MAC ✅        │
-│  Switches Cisco · Trunk · STP · ARP · Wireshark                 │
+│  CAPA 2 — Enlace de Datos                                       │
+│  VLANs mal configuradas = caos total. Pregúntame cómo sé esto.  │
 ├─────────────────────────────────────────────────────────────────┤
-│  CAPA 1 — Física             ← Cableado · RJ45 · Certificación ✅│
-│  Cat5e · Cat6 · Ponchado · Certificación · Access Points        │
+│  CAPA 1 — Física                                                │
+│  "¿Está conectado el cable?" — *silencio incómodo del cliente*  │
 └─────────────────────────────────────────────────────────────────┘
-
-  ✅ = Experiencia práctica real     🚧 = En construcción
 ```
 
 ---
@@ -127,26 +121,6 @@ $ cat whoami.txt
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
-
----
-
-## 💼 Experiencia
-
-**🌐 Técnico en Infraestructura de Redes** — *Preparatoria Siglo XXI* &nbsp;`Sep – Dic 2025`
-- Instalación y certificación de cableado estructurado Cat5e/6
-- Configuración de switches con asignación de VLANs y enlaces trunk
-- Gestión de access points para red inalámbrica institucional
-- Diseño y documentación de topología de red
-- Troubleshooting de conectividad en ambiente real de producción
-
-**🔧 Técnico en Soporte y Desarrollo Web** — *NetRabbit S.A. de C.V.* &nbsp;`Sep 2024 – Feb 2025`
-- Soporte técnico y mantenimiento preventivo/correctivo
-- Desarrollo web con HTML, CSS, JavaScript y PHP
-- Diagnóstico y resolución de incidencias de hardware y software
-
-**🎓 Servicio Social** — *UPVT* &nbsp;`Ene – Jul 2026`
-- Desarrollo de sistema de tickets para gestión de soporte técnico
-- Mantenimiento preventivo y correctivo a equipo institucional
 
 ---
 
