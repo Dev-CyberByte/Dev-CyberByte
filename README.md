@@ -1,5 +1,5 @@
 # Juan Pablo Olivares Pérez
-### 🌐 Redes · ☁️ Cloud · 🔐 Ciberseguridad
+### 🌐 Redes · ☁️ Cloud 
 
 **Estudiante de Ingeniería en TI · Técnico en Redes e Infraestructura**  
 📍 Zinacantepec, Edomex &nbsp;|&nbsp; ✉️ juan0olivaresperez@gmail.com  
