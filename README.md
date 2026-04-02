@@ -1,12 +1,3 @@
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════╗
-║  Router> show profile juan-pablo-olivares            ║
-║  Status: Online | Mode: Learning | Uptime: 8 cuatrimestres ║
-╚══════════════════════════════════════════════════════╝
-```
-
 # Juan Pablo Olivares Pérez
 ### 🌐 Redes · ☁️ Cloud · 🔐 Ciberseguridad
 
