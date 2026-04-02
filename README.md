@@ -55,11 +55,12 @@ Apasionado por entender cómo funcionan los sistemas y cómo protegerlos. Con ex
 
 | Certificación | Emisor | Año |
 |--------------|--------|-----|
+| 🔧 Introducción a GNS3 | Autodidacta / Práctica profesional | 2025 |
 | ☁️ Certificación en la Nube con AWS | Amazon Web Services | 2025 |
 | ☁️ Microsoft Azure Fundamentals | Microsoft | 2025 |
 | 🌐 Cisco Networking Essentials | Cisco Networking Academy | 2024 |
 | 🗣️ English Essentials for Professional Growth | Santander Universidades | 2024 |
-| 🔧 Introducción a GNS3 | Autodidacta / Práctica profesional | 2024 |
+
 
 ---
 
