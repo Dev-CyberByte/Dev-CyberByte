@@ -1,46 +1,79 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1BA0D7,100:0A66C2&height=200&section=header&text=Juan%20Pablo%20Olivares&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Network%20Engineer%20%7C%20Cloud%20Enthusiast%20%7C%20CCNA%20in%20progress&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1BA0D7,100:0A66C2&height=220&section=header&text=Juan%20Pablo%20Olivares&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Network%20Engineer%20%7C%20Cloud%20Enthusiast%20%7C%20CCNA%20in%20progress&descAlignY=56&descSize=16&animation=fadeIn" width="100%"/>
 
-</div>
+<br>
 
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1BA0D7&center=true&vCenter=true&width=600&lines=Network+Engineer+en+construcción+📡;Cisco+Packet+Tracer+%7C+GNS3+%7C+Wireshark;CCNA+in+progress+—+packet+a+packet+🔵;Cloud+%3A+AWS+%7C+Azure;Zinacantepec%2C+Edomex+→+el+mundo)](https://github.com/Dev-CyberByte)
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-pablo-olivares-71abb5323)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev-CyberByte)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juan0olivaresperez@gmail.com)
+[![CCNA](https://img.shields.io/badge/CCNA-En%20Progreso-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://github.com/Dev-CyberByte/ccna-networking-labs)
+[![Disponible](https://img.shields.io/badge/Prácticas-Disponible-2ea44f?style=for-the-badge&logo=checkmarx&logoColor=white)](mailto:juan0olivaresperez@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Dev-CyberByte&color=1BA0D7&style=for-the-badge&label=VISITAS)](https://github.com/Dev-CyberByte)
 
 </div>
 
----
+<br>
 
-## `$ whoami`
-
-```yaml
-Nombre     : Juan Pablo Olivares Pérez
-Rol        : Estudiante ITI · Técnico en Redes e Infraestructura
-Enfoque    : Redes · Cloud Computing · Infraestructura TI · CCNA
-Campus     : Universidad Politécnica del Valle de Toluca
-Estado     : 8° Cuatrimestre — construyendo el futuro packet a packet 📡
-Ubicación  : Zinacantepec, Estado de México
-Idiomas    : Español (nativo) · Inglés (B1)
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  > Inicializando perfil...                                       ║
+║  > Cargando stack de redes...                    [██████████] ✓  ║
+║  > Conectando con GitHub...                      [██████████] ✓  ║
+║  > CCNA progress:                                [███████░░░] 70%║
+║  > Estado: DISPONIBLE PARA PRÁCTICAS             [  ACTIVO  ] ✓  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
-> Apasionado por entender cómo funcionan los sistemas desde la capa física hasta la nube.
+<br>
+
+<!-- ═══════════════════ SOBRE MÍ ═══════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1BA0D7&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:1a2a3a&height=60&text=◈%20%20WHOAMI&fontSize=22&fontColor=1BA0D7&fontAlignY=65&textBg=false" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1BA0D7,100:0d1117&height=2&section=header" width="100%"/>
+
+<br>
+
+```yaml
+┌─ PERFIL ─────────────────────────────────────────────────────────┐
+│                                                                   │
+│  Nombre     : Juan Pablo Olivares Pérez                          │
+│  Rol        : Estudiante ITI · Técnico en Redes e Infraestructura│
+│  Enfoque    : Redes · Cloud Computing · Infraestructura TI       │
+│  Certif.    : CCNA — en progreso 🎯                              │
+│  Campus     : Universidad Politécnica del Valle de Toluca        │
+│  Estado     : 8° Cuatrimestre — construyendo packet a packet 📡  │
+│  Ubicación  : Zinacantepec, Estado de México                     │
+│  Idiomas    : Español (nativo) · Inglés (B1)                     │
+│                                                                   │
+└───────────────────────────────────────────────────────────────────┘
+```
+
+> 📡 Apasionado por entender cómo funcionan los sistemas desde la capa física hasta la nube.
 > Con experiencia en cableado estructurado, switching, VLANs, subnetting, troubleshooting y plataformas cloud.
-> Actualmente preparando certificación **CCNA** — cada lab es un paso más.
+> Actualmente preparando la certificación **CCNA** — cada lab es un paso más.
 > Autodidacta por convicción: siempre hay algo nuevo más allá del aula.
 
----
+<br>
 
-## 🧠 El Modelo OSI — La versión honesta
+<!-- ═══════════════════ OSI ═══════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1BA0D7&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:1a2a3a&height=60&text=◈%20%20OSI%20MODEL%20—%20La%20versión%20honesta&fontSize=20&fontColor=1BA0D7&fontAlignY=65&textBg=false" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1BA0D7,100:0d1117&height=2&section=header" width="100%"/>
+
+<br>
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  CAPA 8 — El Usuario                                            │
-│  No está en el RFC, pero es la causa del 90% de los tickets.    │
-│  "¿Probaste apagarlo y prenderlo?" — funciona siempre.          │
+│  No está en el RFC pero es la causa del 90% de los tickets.     │
+│  "¿Probaste apagarlo y prenderlo?" — sí, funciona siempre.      │
 ├─────────────────────────────────────────────────────────────────┤
 │  CAPA 7 — Aplicación                                            │
 │  "Está caído el sistema." — el sistema está bien, eres tú.      │
@@ -67,18 +100,29 @@ Idiomas    : Español (nativo) · Inglés (B1)
 └─────────────────────────────────────────────────────────────────┘
 ```
 
----
+<br>
 
-## 🛠️ Stack Técnico
+<!-- ═══════════════════ STACK ═══════════════════ -->
 
-### 🌐 Redes e Infraestructura
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1BA0D7&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:1a2a3a&height=60&text=◈%20%20STACK%20TÉCNICO&fontSize=22&fontColor=1BA0D7&fontAlignY=65&textBg=false" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1BA0D7,100:0d1117&height=2&section=header" width="100%"/>
+
+<br>
+
+### 🌐 Redes e Infraestructura — *mi área principal*
+
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![GNS3](https://img.shields.io/badge/GNS3-009933?style=flat-square&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
 | Área | Habilidades |
 |------|-------------|
 | 🔌 Cableado | Cat5e / Cat6 · Ponchado RJ45 · Certificación |
 | 🔀 Switching | VLANs · Trunk · Spanning Tree · Switches Cisco |
 | 📡 Wireless | Access Points · WPA2 · Redes Institucionales |
-| 🗺️ Subnetting | IPv4 · VLSM · CIDR · Diseño de esquemas de direccionamiento |
+| 🗺️ Subnetting | IPv4 · VLSM · CIDR · Diseño de esquemas |
 | 🔍 Troubleshooting | Diagnóstico por capas OSI · Ping · Tracert · Wireshark |
 | 🖥️ Simulación | Cisco Packet Tracer · GNS3 |
 | 🐧 Servidores Linux | DHCP · DNS · Servicios en Debian |
@@ -106,16 +150,20 @@ Idiomas    : Español (nativo) · Inglés (B1)
 
 ### 🔧 Herramientas
 
-![Cisco Packet Tracer](https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![GNS3](https://img.shields.io/badge/GNS3-009933?style=flat-square&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
 
----
+<br>
 
-## 🚀 Proyecto Destacado
+<!-- ═══════════════════ PROYECTO ═══════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1BA0D7&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:1a2a3a&height=60&text=◈%20%20PROYECTO%20DESTACADO&fontSize=22&fontColor=1BA0D7&fontAlignY=65&textBg=false" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1BA0D7,100:0d1117&height=2&section=header" width="100%"/>
+
+<br>
 
 <div align="center">
 
@@ -125,31 +173,41 @@ Idiomas    : Español (nativo) · Inglés (B1)
 
 ### 📡 `ccna-networking-labs`
 
-> Repositorio activo en construcción para la certificación **CCNA** — laboratorios prácticos, proyectos tipo empresarial y apoyo técnico documentado.
-
-**¿Qué encontrarás aquí?**
+> Repositorio activo para la certificación **CCNA** — laboratorios prácticos, proyectos tipo empresarial y apoyo técnico documentado.
 
 | Categoría | Descripción |
 |-----------|-------------|
 | 📘 Labs en Packet Tracer | Topologías, VLANs, routing, subnetting y más |
-| 🖥️ Labs en GNS3 | Simulaciones avanzadas con imágenes IOS reales *(próximamente)* |
-| 🏠 Labs físicos caseros | Práctica con hardware real: switches, routers, cableado |
+| 🖥️ Labs en GNS3 | Simulaciones avanzadas con IOS real *(próximamente)* |
+| 🏠 Labs físicos caseros | Hardware real: switches, routers, cableado |
 | 🔍 Análisis con Wireshark | Capturas de tráfico y diagnóstico de red |
-| 🐧 Servidores en Debian | DHCP, DNS y otros servicios configurados desde cero |
+| 🐧 Servidores en Debian | DHCP, DNS y otros servicios desde cero |
 | 🏢 Proyectos tipo empresa | Diseño de redes para escenarios reales |
 | 📖 Apoyo técnico | Guías y documentación para quienes inician en redes |
-
-**Stack de herramientas:**
 
 ![Cisco Packet Tracer](https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![GNS3](https://img.shields.io/badge/GNS3-009933?style=flat-square)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian_Server-A81D33?style=flat-square&logo=debian&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Cisco IOS](https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 
----
+<br>
 
-## 📜 Certificaciones
+<!-- ═══════════════════ CERTIFICACIONES ═══════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1BA0D7&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:1a2a3a&height=60&text=◈%20%20CERTIFICACIONES&fontSize=22&fontColor=1BA0D7&fontAlignY=65&textBg=false" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1BA0D7,100:0d1117&height=2&section=header" width="100%"/>
+
+<br>
+
+<div align="center">
+
+![CCNA](https://img.shields.io/badge/🎯%20CCNA-En%20Progreso-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+</div>
+
+<br>
 
 | | Certificación | Emisor | Año |
 |--|--------------|--------|-----|
@@ -158,11 +216,17 @@ Idiomas    : Español (nativo) · Inglés (B1)
 | 🌐 | Cisco Networking Essentials | Cisco Networking Academy | 2024 |
 | 🗣️ | English Essentials for Professional Growth | Santander Universidades | 2024 |
 | 🔧 | Introducción a GNS3 | Autodidacta / Práctica | 2024 |
-| 🎯 | **CCNA** *(en progreso)* | Cisco | 2025-2026 |
+| 🎯 | **CCNA** *(en progreso)* | Cisco | 2025–2026 |
 
----
+<br>
 
-## 📊 GitHub Stats
+<!-- ═══════════════════ STATS ═══════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1BA0D7&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:1a2a3a&height=60&text=◈%20%20GITHUB%20STATS&fontSize=22&fontColor=1BA0D7&fontAlignY=65&textBg=false" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1BA0D7,100:0d1117&height=2&section=header" width="100%"/>
+
+<br>
 
 <div align="center">
 
@@ -172,28 +236,56 @@ Idiomas    : Español (nativo) · Inglés (B1)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Dev-CyberByte&theme=github-dark-blue&hide_border=true&ring=1BA0D7&fire=FF9900&currStreakLabel=1BA0D7)](https://github.com/Dev-CyberByte)
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dev-CyberByte&theme=react-dark&hide_border=true&color=1BA0D7&line=1BA0D7&point=FF9900)](https://github.com/Dev-CyberByte)
+
 </div>
 
----
+<br>
 
-## 🤝 Conectemos
+<!-- ═══════════════════ SNAKE ═══════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1BA0D7&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:1a2a3a&height=60&text=◈%20%20CONTRIBUCIONES&fontSize=22&fontColor=1BA0D7&fontAlignY=65&textBg=false" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1BA0D7,100:0d1117&height=2&section=header" width="100%"/>
+
+<br>
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Dev-CyberByte/Dev-CyberByte/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<br>
+
+<!-- ═══════════════════ CONTACTO ═══════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1BA0D7&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:1a2a3a&height=60&text=◈%20%20CONECTEMOS&fontSize=22&fontColor=1BA0D7&fontAlignY=65&textBg=false" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1BA0D7,100:0d1117&height=2&section=header" width="100%"/>
+
+<br>
+
+<div align="center">
 
 ¿Tienes una duda de redes, un proyecto interesante o una oportunidad de prácticas?
 
-<div align="center">
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Escríbeme-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-pablo-olivares-71abb5323)
 [![Email](https://img.shields.io/badge/Gmail-Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juan0olivaresperez@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Sígueme-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev-CyberByte)
 
-</div>
+<br>
 
----
+```
+> ping juan0olivaresperez@gmail.com
+  Reply from juan: bytes=32 time<1ms TTL=64
+  Conexión establecida. ¡Hablemos! 🤝
+```
 
-<div align="center">
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1BA0D7&height=120&section=footer" width="100%"/>
-
-<sub>📡 Packet a packet, construyendo el camino hacia la certificación CCNA · Dev-CyberByte © 2025</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:1BA0D7,100:0d1117&height=140&section=footer&text=Packet%20a%20packet%20—%20Dev-CyberByte&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
